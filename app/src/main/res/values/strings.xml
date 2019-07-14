@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andela Task1</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="track">Track: Android</string>
+    <string name="mail">Email: adewaleadebayo630@gmail.com</string>
+    <string name="slack">Slack Username: @Walexhino</string>
+    <string name="phone">Phone Number: 08127544013</string>
+</resources>
